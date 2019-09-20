@@ -1,5 +1,5 @@
-# Blikk
-## Blikk documentation project
+# Blikk Documentation Project
+
 ### Introduction
 
 Blikk is a room-size collaborative "multimedia" artwork that consists of kinetic sculptures, lights, laser, and audio. The work was commissioned by and first performed at Henie-Onstad Kunstsenter (HOK) in 1970. Irma Salo Jæger (kinetic sculpture), Jan Erik Vold (texts, voice), and Sigurd Berge (music) were the main artistic collaborators, and three engineers from Forsvarets Forskningsinstitutt - Halvor Heier, Birger Komedal, and Harald Schiøtz - were brought in to realize the artistic visions with their technical expertise (light and audio synchronization programming and development of the control system; laser drawing). 
